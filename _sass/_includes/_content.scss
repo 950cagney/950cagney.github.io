@@ -246,10 +246,10 @@
 		}
 		
 		tr {
+			border-bottom: 1px dotted #EEEEEE;
 
 			&:nth-child(2n) {
 			//	background: $background-alt-color;
-				border-top: 1px solid #DDDDDD;
 			}
 		}
 	}
