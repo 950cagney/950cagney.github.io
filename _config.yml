@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /memory/:slug
+    permalink: /memorial/:slug
   projects:
     output: true
     permalink: /recipes/:slug
@@ -53,7 +53,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 10
-paginate_path: "/memory/page:num/"
+paginate_path: "/memorial/page:num/"
 
 grid_alignments:
   - top
