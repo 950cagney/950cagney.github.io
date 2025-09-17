@@ -1,6 +1,7 @@
 
 basic_settings:
-  site_title: Cristina Andr&eacute;s (1943-2013)
+  site_title: Cristina Andr&eacute;s 
+  site_tagline: (May 1943 — Jan 2013) 
   favicon_image: /images/favicon.png
 
 header_settings:
