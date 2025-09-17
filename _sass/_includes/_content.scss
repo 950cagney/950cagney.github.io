@@ -18,6 +18,9 @@
 .intro .wrap {
 	padding-bottom: 10px;
 	border-bottom: 1px solid #BBBBBB;
+}
+
+.intro .wrap p {
 	font-size: 15px;
 }
 
@@ -79,10 +82,10 @@
 		}
 	}
 
-	h6.single {
+	h6 {
 		margin-top: 40px;
 		font-size: 0.1em;
-		colro: $background-alt-color;
+		color: $background-alt-color;
 	}
 	
 	hr {
