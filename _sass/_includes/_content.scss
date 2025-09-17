@@ -18,6 +18,16 @@
 .intro .wrap {
 	padding-bottom: 10px;
 	border-bottom: 1px solid #BBBBBB;
+	font-size: 15px;
+}
+
+.intro .wrap span {
+	margin-left: 20px;
+}
+
+.intro .wrap a {
+	color: $text-medium-color;
+	font-weight: lighter;
 }
 
 .content-wrap {
