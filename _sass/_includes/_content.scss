@@ -69,6 +69,12 @@
 		}
 	}
 
+	.single h6 {
+		margin-top: 40px;
+		font-size: 0.1em;
+		colro: $background-alt-color;
+	}
+	
 	hr {
 		margin: 30px auto;
 		width: calc(100vw - 60px);
