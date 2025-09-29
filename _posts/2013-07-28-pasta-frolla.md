@@ -1,7 +1,7 @@
 ---
 title: 'Inolvidable'
 date: 2013-07-29
-author: Beatriz
+author: Walter
 translation: english
 featured_image: '/images/20130728-pasta-frolla.jpg'
 ---
