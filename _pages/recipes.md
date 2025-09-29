@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Recipes
 subtitle: collection of Cristina's cooking secrets
 ---
