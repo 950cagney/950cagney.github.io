@@ -1,5 +1,5 @@
 ---
-title: 'International Women\'s Day'
+title: "International Women's Day"
 date: 2015-03-08
 author: Ana Maria
 translation: english
