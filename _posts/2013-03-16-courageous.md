@@ -1,5 +1,5 @@
 ---
-title: 'Most Courageous Woman I've Ever Known'
+title: "Most Courageous Woman I've Ever Known"
 date: 2013-03-16 
 author: Gloria Sliney
 featured_image: '/images/20130316-gloria.jpg'
