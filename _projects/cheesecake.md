@@ -27,4 +27,4 @@ Directions:
 1. Bake both cheesecake and topping together for additional 10 minutes
 1. Garnish with fresh cut strawberries
 
-![](/images/recipe-cheesecake.jpg)
+[![](/images/recipe-cheesecake.jpg 'Download Recipe')](/images/recipe-cheesecake.jpg)
