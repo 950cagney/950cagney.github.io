@@ -1,6 +1,6 @@
 ---
 title: "Potato Gnocchi"
-category: pasta
+category: italian
 ---
 
 Here's a recipe for standard potato Gnocchi from _Bon Appetite_ magazine that Cristina clipped:
