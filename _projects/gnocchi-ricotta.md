@@ -1,6 +1,6 @@
 ---
 title: "Ricotta Gnocchi"
-category: pasta
+category: italian
 ---
 
 Here's a recipe for Gnocchi di Ricotta:
