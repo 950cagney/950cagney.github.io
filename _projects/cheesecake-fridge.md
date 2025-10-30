@@ -1,5 +1,5 @@
 ---
-title: "Carmen's Refrigerator Cheesecake"
+title: "Refrigerator Cheesecake"
 category: cake
 ---
 
