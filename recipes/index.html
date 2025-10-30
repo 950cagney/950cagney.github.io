@@ -11,7 +11,7 @@ title: Recipes
 			<h2 class="listing-item__title" style="color: black;">Breads</h2>
 				<ul>		
 {% for project in site.projects %}
-	{% if project.category == "bread" %}
+	{% if project.category == "bread" or project.category == "breads" %}
 					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
 	{% endif %}
 {% endfor %}
