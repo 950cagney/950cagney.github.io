@@ -63,6 +63,17 @@ title: Recipes
 		</article>
 <!--  -->
 		<article class="listing-item">
+			<h2 class="listing-item__title" style="color: black;">Pastry</h2>
+				<ul>		
+{% for project in site.projects %}
+	{% if project.category == "pastry" %}
+					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	{% endif %}
+{% endfor %}
+				</ul>
+		</article>
+<!--  -->
+		<article class="listing-item">
 			<h2 class="listing-item__title" style="color: black;">Savory</h2>
 				<ul>		
 {% for project in site.projects %}
