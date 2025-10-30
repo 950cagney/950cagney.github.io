@@ -8,6 +8,39 @@ title: Recipes
 	<div class="content-wrap listing-wrap recipes">
 
 		<article class="listing-item">
+			<h2 class="listing-item__title" style="color: black;">Breads</h2>
+				<ul>		
+{% for project in site.projects %}
+	{% if project.category == "bread" %}
+					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	{% endif %}
+{% endfor %}
+				</ul>
+		</article>
+<!--  -->
+		<article class="listing-item">
+			<h2 class="listing-item__title" style="color: black;">Cakes</h2>
+				<ul>		
+{% for project in site.projects %}
+	{% if project.category == "cake" %}
+					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	{% endif %}
+{% endfor %}
+				</ul>
+		</article>
+<!--  -->
+		<article class="listing-item">
+			<h2 class="listing-item__title" style="color: black;">Cookies</h2>
+				<ul>		
+{% for project in site.projects %}
+	{% if project.category == "cookie" %}
+					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	{% endif %}
+{% endfor %}
+				</ul>
+		</article>
+<!--  -->
+		<article class="listing-item">
 			<h2 class="listing-item__title" style="color: black;">Desserts</h2>
 				<ul>		
 {% for project in site.projects %}
