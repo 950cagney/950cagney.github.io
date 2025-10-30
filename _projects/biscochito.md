@@ -1,6 +1,6 @@
 ---
 title: "Biscochito de Nona"
-category: dessert
+category: cake
 ---
 
 A favorite of Cristina's mother Livia:

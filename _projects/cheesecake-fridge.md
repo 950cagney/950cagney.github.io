@@ -1,6 +1,6 @@
 ---
 title: "Carmen's Refrigerator Cheesecake"
-category: dessert
+category: cake
 ---
 
 Unsure who Carmen refers to, but it sounds delicious:

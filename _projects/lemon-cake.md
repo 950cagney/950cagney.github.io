@@ -1,6 +1,6 @@
 ---
 title: "Torta de Limón"
-category: dessert
+category: cake
 ---
 
 Livia's handwriting showing a cake with lemon or mango:

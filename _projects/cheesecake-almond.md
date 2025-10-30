@@ -1,6 +1,6 @@
 ---
 title: "Almond Cheesecake"
-category: dessert
+category: cake
 ---
 
 From the newspaper:

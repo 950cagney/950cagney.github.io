@@ -1,6 +1,6 @@
 ---
 title: "Christmas Anise Cookies"
-category: dessert
+category: cookie
 ---
 
 From the newspaper:

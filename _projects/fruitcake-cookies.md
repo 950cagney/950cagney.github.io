@@ -1,6 +1,6 @@
 ---
 title: "Fruitcake Cookies"
-category: dessert
+category: cookie
 ---
 
 From the newspaper:

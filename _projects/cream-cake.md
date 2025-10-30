@@ -1,6 +1,6 @@
 ---
 title: "Torta de Crema"
-category: dessert
+category: cake
 ---
 
 A recipe from the mother of a family friend and fellow ham radio operator, Daniel:

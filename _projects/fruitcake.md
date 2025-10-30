@@ -1,6 +1,6 @@
 ---
 title: "Budín Ingles (Fruitcake)"
-category: dessert
+category: pastry
 ---
 
 This recipe is from Livia's sister-in-law Chiche (would be Cristina's aunt):

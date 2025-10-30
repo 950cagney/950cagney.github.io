@@ -1,6 +1,6 @@
 ---
 title: "Golden Puffs"
-category: dessert
+category: pastry
 ---
 
 Unsure of the handwriting here:

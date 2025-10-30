@@ -1,6 +1,6 @@
 ---
 title: "White Zinfandel Cake"
-category: dessert
+category: cake
 ---
 
 From the newspaper:

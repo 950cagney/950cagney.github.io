@@ -1,6 +1,6 @@
 ---
 title: "Ricotta Cheesecake"
-category: dessert
+category: cake
 ---
 
 Appears to be in Cristina's handwriting:

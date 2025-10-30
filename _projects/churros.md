@@ -1,6 +1,6 @@
 ---
 title: "Churros"
-category: dessert
+category: pastry
 ---
 
 Unsure of the origin:

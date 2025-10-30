@@ -1,6 +1,6 @@
 ---
 title: "Jelly Roll Cookies"
-category: dessert
+category: cookie
 ---
 
 From the newspaper:

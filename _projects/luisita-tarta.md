@@ -1,6 +1,6 @@
 ---
 title: "Tarta de Luisita"
-category: dessert
+category: cake
 ---
 
 Cake recipe attributed to family friend Luisita:

@@ -1,6 +1,6 @@
 ---
 title: "Torta de Zanahoria"
-category: dessert
+category: cake
 ---
 
 

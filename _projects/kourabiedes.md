@@ -1,6 +1,6 @@
 ---
 title: "Kourabiedes"
-category: dessert
+category: cookie
 ---
 
 These Greek cookies (masitas Griegas) recipe is in Livia's handwriting, but known in Greece as "kourabiedes":

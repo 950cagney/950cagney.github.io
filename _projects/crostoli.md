@@ -1,6 +1,6 @@
 ---
 title: "Crostoli"
-category: dessert
+category: pastry
 ---
 
 These Italian treats must have been quite important, because there were plenty of handwritten recipes!

@@ -1,6 +1,6 @@
 ---
 title: "Torta de Ricotta"
-category: dessert
+category: cake
 ---
 
 From Livia's handwriting:

@@ -1,6 +1,6 @@
 ---
 title: "Mint Cream Puff Crowns"
-category: dessert
+category: pastry
 ---
 
 From the newspaper:

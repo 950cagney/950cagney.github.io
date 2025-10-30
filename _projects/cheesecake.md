@@ -1,5 +1,6 @@
 ---
 title: "Cristina's Cheesecake"
+category: cake
 ---
 
 Anyone that knew Cristina also knew her famous cheesecake. It was a fan favorite at many school events at Anoakia, Barnhart, and La Salle High School. Here now, for her friends to enjoy, is Cristina's not-so-secret recipe.

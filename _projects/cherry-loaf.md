@@ -1,6 +1,6 @@
 ---
 title: "Cheery Cherry Loaf"
-category: dessert
+category: bread
 ---
 
 From the newspaper:

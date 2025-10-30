@@ -1,6 +1,6 @@
 ---
 title: "Graham Cracker Pie Crust"
-category: dessert
+category: cake
 ---
 
 Unsure of the handwriting:
