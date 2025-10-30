@@ -7,19 +7,20 @@ title: Recipes
 
 	<div class="content-wrap listing-wrap">
 
-		{% for project in site.projects %}
-
 		<article class="listing-item">
+			<div class="listing-item__info">
+				<h2 class="listing-item__title recipes">Desserts</h2>
+					<ul>
+					
+			{% for project in site.projects %}
+						<li>
+							<a class="listing-item__link" href="{{ project.url | relative_url }}">{{ project.title }}
+						</li>
+			{% endfor %}
 
-			<a class="listing-item__link" href="{{ project.url | relative_url }}">
-					<div class="listing-item__info">
-						<h2 class="listing-item__title">{{ project.title }}</h2>
-					</div>
-			</a>
-
+					</ul>
+			</div>
 		</article>
-
-		{% endfor %}
 
 	</div>
 
