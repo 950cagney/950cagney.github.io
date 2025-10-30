@@ -9,11 +9,11 @@ title: Recipes
 
 		<article class="listing-item">
 			<div class="listing-item__info">
-				<h2 class="listing-item__title">Desserts</h2>
-					<ul style="color: black">
+				<h2 class="listing-item__title" style="color: black;">Desserts</h2>
+					<ul>
 					
 {% for project in site.projects %}
-	<li><a class="listing-item__link" href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
 {% endfor %}
 
 					</ul>
