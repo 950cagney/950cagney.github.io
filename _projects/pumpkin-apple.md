@@ -1,6 +1,6 @@
 ---
 title: "Pumpkin & Apple Pies"
-category: cake
+category: dessert
 ---
 
 From the newspaper:
