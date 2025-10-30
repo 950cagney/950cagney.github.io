@@ -11,12 +11,36 @@ title: Recipes
 			<h2 class="listing-item__title" style="color: black;">Desserts</h2>
 				<ul>		
 {% for project in site.projects %}
-	{% if project.category == "Dessert" %}
+	{% if project.category == "dessert" %}
 					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
 	{% endif %}
 {% endfor %}
 				</ul>
 		</div>
+<!--  -->
+		<div class="listing-item__info">
+			<h2 class="listing-item__title" style="color: black;">Desserts</h2>
+				<ul>		
+{% for project in site.projects %}
+	{% if project.category == "italian" %}
+					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	{% endif %}
+{% endfor %}
+				</ul>
+		</div>
+<!--  -->
+		<div class="listing-item__info">
+			<h2 class="listing-item__title" style="color: black;">Desserts</h2>
+				<ul>		
+{% for project in site.projects %}
+	{% if project.category == "savory" %}
+					<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+	{% endif %}
+{% endfor %}
+				</ul>
+		</div>
+
+	
 	</div>
 
 </section>
