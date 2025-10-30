@@ -1,5 +1,5 @@
 ---
-title: "Christmas Anise Cookies"
+title: "Anise Cookies"
 category: cookie
 ---
 
