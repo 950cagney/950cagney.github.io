@@ -5,18 +5,16 @@ title: Recipes
 
 <section class="listing">
 
-	<div class="content-wrap listing-wrap">
+	<div class="content-wrap listing-wrap recipes">
 
 		<article class="listing-item">
 			<div class="listing-item__info">
-				<h2 class="listing-item__title recipes">Desserts</h2>
-					<ul>
+				<h2 class="listing-item__title">Desserts</h2>
+					<ul style="color: black">
 					
-			{% for project in site.projects %}
-						<li>
-							<a class="listing-item__link" href="{{ project.url | relative_url }}">{{ project.title }}
-						</li>
-			{% endfor %}
+{% for project in site.projects %}
+	<li><a class="listing-item__link" href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+{% endfor %}
 
 					</ul>
 			</div>
