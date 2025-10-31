@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 50
+paginate: 30
 paginate_path: "/memorial/page:num/"
 
 grid_alignments:
