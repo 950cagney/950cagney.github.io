@@ -4,9 +4,9 @@ title: "1943-2013"
 ---
 <style>
 	
-.memorial_button { 
+a.buttons { 
 	box-shadow: 4px 5px 20px 0px #000000; 
-	background-image: linear-gradient(bottom, #a5f7a0 5%, #d8ffd6 100%);
+	background-image: linear-gradient(rgba(165, 247, 160, 0.05), rgba(216, 255, 214, 1));
 	background-color: #a5f7a0; 
 	border-radius:42px; 
 	border:2px solid #91f28a; 
@@ -17,18 +17,20 @@ title: "1943-2013"
 	padding:10px 24px; text-decoration:none; text-shadow:1px 1px 4px #000000; 
 }
 
-.memorial_button:hover { 
-	background-image: linear-gradient(bottom, #d8ffd6 5%, #a5f7a0 100%);
- 	background-color:#d8ffd6; 
+a.buttons:hover { 
+	background-image: linear-gradient(rgba(216, 255, 214, 1), rgba(165, 247, 160, 0.05));
+ 	background-color: #d8ffd6; 
 }
-.memorial_button:active { position:relative; top:1px; }
+a.buttons:active { position:relative; top:1px; }
 </style>
 
 
 <section class="listing">
 	<div class="content-wrap listing-wrap">
-		<p align="center"><img src="/images/bday2007.jpg" /></p>
-		<p align="center"><a href="/memorial/" class="memorial_button">Enter Memorial</a></p>
+		<article class="listing-item">
+			<p align="center"><img src="/images/bday2007.jpg" /></p>
+			<p align="center" class="buttons"><a href="/memorial/">Memorial</a><a href="/recipes/">Recipes</a></p>
+		</article>
 	</div>
 </section>
 
